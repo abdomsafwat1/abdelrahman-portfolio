@@ -1,5 +1,5 @@
 import { FiArrowRight, FiDownload, FiMail } from 'react-icons/fi';
-import profilePhoto from '../assets/images/profile.jpg';
+import profilePhoto from './profile.jpg';
 
 function Hero() {
   return (
